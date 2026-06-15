@@ -1,3 +1,4 @@
+# Linux based project
 #  Tools: NS3 and NETAnim (for simulations)
 # Step 1: Build
 cd ~/ns-allinone-3.40/ns-3.40/build && ninja
