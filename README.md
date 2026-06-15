@@ -1,5 +1,6 @@
 # Linux based project
-#  Tools: NS3 and NETAnim (for simulations)
+ Tools: NS3 and NETAnim (for simulations)
+Make a scratch folder to save all files 
 # Step 1: Build
 cd ~/ns-allinone-3.40/ns-3.40/build && ninja
 # Step 2: Run Simulations
